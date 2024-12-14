@@ -1,0 +1,6 @@
+cd
+clear
+rm -rf FILE
+git clone https://github.com/younis-dgk/FILE
+cd FILE
+python FILE.pyhttps://github.com/younis-dgk/FILE
